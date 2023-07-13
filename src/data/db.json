@@ -1,0 +1,30 @@
+{
+    "Tareas":[
+        {
+            "id": 1,
+            "name": "Ver grabación de la clase",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "name": "Repasar",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "name": "Lavar zapatos",
+            "completed": false
+        },
+        {
+            "id": 4,
+            "name": "Entrenar",
+            "completed": false
+        },
+        {
+            "id": 5,
+            "name": "Pedir domicilio",
+            "completed": false
+        }   
+    ]
+}
+
